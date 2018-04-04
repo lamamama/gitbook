@@ -1,0 +1,15 @@
+//第一次創建
+//這只是一個學習github操作的文檔
+//並不具備任何功能
+//author：liming
+//time：2018.4.3.12：51分
+//第二次修改
+git is adistributed version control sysytem
+git is free software
+//第三次修改
+今天是個好日子
+//第五次修改
+具體理解工作區和暫存去的概念
+//第六次修改
+爲了不提交，查看版本庫和當前工作區的文件內容差別.
+//這次是在github網站中更改內容
